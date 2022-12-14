@@ -1,4 +1,6 @@
 # Siralama
+
+```
 import java.util.Scanner;
 
 
@@ -36,4 +38,5 @@ public class Siralama {
         }
     }
 }
+```
 [Patika.dev](https://app.patika.dev/iremr)
